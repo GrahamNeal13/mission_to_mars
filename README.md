@@ -5,3 +5,5 @@ Module 10
 In this module, I will automate a web browser to visit different websites to extract data about the Mission to Mars. It will be stored in a NoSQL database, and then render the data in a web application created with Flask.
 
 The possible problems that may be encountered are running mongoDB and flask updating.  Please be sure to reference files within accessible folder structure.  The images are of changes made and the first screen shot of the module created page.  
+
+Updates: scraping.py file edited to correct issue with mongodb/flask.  The corrected code will now allow scrape data button to function normally.
